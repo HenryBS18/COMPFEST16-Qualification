@@ -1,0 +1,14 @@
+# Title
+money gone, wallet also gone
+
+# Description
+help me find my wallet please :c
+
+# Author
+tipsen
+
+# Solution
+
+
+# Flag
+COMPFEST16{d0nt_F0rg3t_ur_w4ll3T_4g4in_0r_3lse_ur_m0n3y_1s_G0ne_47dcdc753c}
